@@ -67,4 +67,3 @@ Berikut ini adalah beberapa Daftar Program Sederhana menggunakan Bahasa C++ (Inp
 47. Sequential Search
 48. Binary Search
 49. Program Kasir Sederhana
-.
