@@ -31,7 +31,6 @@ Berikut ini adalah beberapa Daftar Program Sederhana menggunakan Bahasa C++ (Inp
 11. Operasi Hitung Perbandingan
 12. Operator Logika
 13. Akar Persamaan Kuadrat
-14. Perkalian Matriks
 15. Program Besaran Vektor dalam Fisika
 16. Program Rumus Kecepatan (Fisika)
 17. Kode Hamming
@@ -52,16 +51,17 @@ Berikut ini adalah beberapa Daftar Program Sederhana menggunakan Bahasa C++ (Inp
 32. Deret Lucas
 33. Barisan dan Deret Bilangan Aritmatika
 34. Menghitung Nilai Rata-rata dengan Array
-35. Konversi Suhu (Dari Celsius)
-36. Konversi Suhu (Dari Fahrenheit)
-37. Konversi Suhu (Dari Reamur)
-38. Konversi Suhu (Dari Rankine)
-39. Konversi Suhu (Dari Kelvin)
-40. Menghitung Data Kasus COVID-19
-41. Konversi Bilangan Desimal ke Biner
-42. Konversi Bilangan Desimal ke Kuartener
-43. Konversi Bilangan Desimal ke Oktal
-44. Konversi Bilangan Desimal ke Heksadesimal
+35. Perkalian Matriks
+36. Konversi Suhu (Dari Celsius)
+37. Konversi Suhu (Dari Fahrenheit)
+38. Konversi Suhu (Dari Reamur)
+39. Konversi Suhu (Dari Rankine)
+40. Konversi Suhu (Dari Kelvin)
+41. Menghitung Data Kasus COVID-19
+42. Konversi Bilangan Desimal ke Biner
+43. Konversi Bilangan Desimal ke Kuartener
+44. Konversi Bilangan Desimal ke Oktal
+45. Konversi Bilangan Desimal ke Heksadesimal
 46. Bubble Sort
 47. Selection Sort
 48. Insertion Sort
