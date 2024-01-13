@@ -65,7 +65,8 @@ Berikut ini adalah beberapa Daftar Program Sederhana menggunakan Bahasa C++ (Inp
 46. Bubble Sort
 47. Selection Sort
 48. Insertion Sort
-49. Sequential Search
-50. Binary Search
-51. Daftar Nilai Mahasiswa
-52. Program Kasir Sederhana
+49. Quick Sort
+50. Sequential Search
+51. Binary Search
+52. Daftar Nilai Mahasiswa
+53. Program Kasir Sederhana
