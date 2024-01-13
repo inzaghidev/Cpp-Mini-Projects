@@ -31,40 +31,41 @@ Berikut ini adalah beberapa Daftar Program Sederhana menggunakan Bahasa C++ (Inp
 11. Operasi Hitung Perbandingan
 12. Operator Logika
 13. Akar Persamaan Kuadrat
-14. Program Besaran Vektor dalam Fisika
-15. Program Rumus Kecepatan (Fisika)
-16. Kode Hamming
-17. Memeriksa Tahun Kabisat
-18. Program Mencetak Tanda Bintang
-19. Faktorial Iteratif
-20. Faktorial Rekursif
-21. Perpangkatan Iteratif (Iterative Exponentiation)
-22. Perpangkatan Rekursif (Recursive Exponentiation)
-23. Tetrasi (Tetration)
-24. Fungsi Ackermann (Ackermann Function)
-25. Deret Bilangan Ganjil
-26. Deret Bilangan Genap
-27. Deret Bilangan Ganjil-Genap
-28. Deret Bilangan Prima
-29. Menentukan Deret Bilangan Prima
-30. Deret Fibonacci
-31. Deret Lucas
-32. Barisan dan Deret Bilangan Aritmatika
-33. Menghitung Nilai Rata-rata dengan Array
-34. Konversi Suhu (Dari Celsius)
-35. Konversi Suhu (Dari Fahrenheit)
-36. Konversi Suhu (Dari Reamur)
-37. Konversi Suhu (Dari Rankine)
-38. Konversi Suhu (Dari Kelvin)
-39. Menghitung Data Kasus COVID-19
-40. Konversi Bilangan Desimal ke Biner
-41. Konversi Bilangan Desimal ke Kuartener
-42. Konversi Bilangan Desimal ke Oktal
-43. Konversi Bilangan Desimal ke Heksadesimal
-44. Bubble Sort
-45. Selection Sort
-46. Insertion Sort
-47. Sequential Search
-48. Binary Search
-49. Daftar Nilai Mahasiswa
-50. Program Kasir Sederhana
+14. Perkalian Matriks
+15. Program Besaran Vektor dalam Fisika
+16. Program Rumus Kecepatan (Fisika)
+17. Kode Hamming
+18. Memeriksa Tahun Kabisat
+19. Program Mencetak Tanda Bintang
+20. Faktorial Iteratif
+21. Faktorial Rekursif
+22. Perpangkatan Iteratif (Iterative Exponentiation)
+23. Perpangkatan Rekursif (Recursive Exponentiation)
+24. Tetrasi (Tetration)
+25. Fungsi Ackermann (Ackermann Function)
+26. Deret Bilangan Ganjil
+27. Deret Bilangan Genap
+28. Deret Bilangan Ganjil-Genap
+29. Deret Bilangan Prima
+30. Menentukan Deret Bilangan Prima
+31. Deret Fibonacci
+32. Deret Lucas
+33. Barisan dan Deret Bilangan Aritmatika
+34. Menghitung Nilai Rata-rata dengan Array
+35. Konversi Suhu (Dari Celsius)
+36. Konversi Suhu (Dari Fahrenheit)
+37. Konversi Suhu (Dari Reamur)
+38. Konversi Suhu (Dari Rankine)
+39. Konversi Suhu (Dari Kelvin)
+40. Menghitung Data Kasus COVID-19
+41. Konversi Bilangan Desimal ke Biner
+42. Konversi Bilangan Desimal ke Kuartener
+43. Konversi Bilangan Desimal ke Oktal
+44. Konversi Bilangan Desimal ke Heksadesimal
+46. Bubble Sort
+47. Selection Sort
+48. Insertion Sort
+49. Sequential Search
+50. Binary Search
+51. Daftar Nilai Mahasiswa
+52. Program Kasir Sederhana
