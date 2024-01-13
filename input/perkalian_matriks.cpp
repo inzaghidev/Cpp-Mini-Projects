@@ -5,7 +5,7 @@ int main() {
     int matriks1[10][10], matriks2[10][10], hasil[10][10];
     int i, j, k, m, n, jumlah = 0;
 
-    cout << "Program Perkalian Matriks m x m" << endl;
+    cout << "Program Perkalian Matriks m x n" << endl;
     cout << "Masukkan jumlah Baris Matriks : ";
     cin >> m;
     cout << "Masukkan jumlah Kolom Matriks : ";
